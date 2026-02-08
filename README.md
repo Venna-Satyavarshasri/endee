@@ -16,6 +16,9 @@ also you can run endee using docker from docker hub without building it locally.
 Before installing, ensure your system meets the following hardware and operating system requirements.
 
 ### Supported Operating Systems
+## Endee Labs Evaluation
+
+This fork is used by Venna Satya Varsha Sri as part of an Endee Labs project-based evaluation.
 
 * **Linux**: Ubuntu(22.04, 24.04, 25.04) Debian(12, 13), Rocky(8, 9, 10), Centos(8, 9, 10), Fedora(40, 42, 43)
 * **macOS**: Apple Silicon (M Series) only.
