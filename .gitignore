@@ -1,25 +1,43 @@
+.# ===============================
+# Python virtual environments
+# ===============================
+venv/
+.venv/
 
-# Ignore build directory
-build/
-# Ignore build like directory
-build*/
-# Ignore all files in the build directory
-build/*
+# ===============================
+# Python cache files
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# Ignore tests build directory
-tests/build/
-
-# Sometimes data files are created for tetsing
+# ===============================
+# Data & generated files
+# ===============================
 data/
 data/*
+chunks.txt
 
-# VS Code directory
-.vscode/
-.vscode/*
+# ===============================
+# Streamlit cache
+# ===============================
+.streamlit/
 
-# Frontend
+# ===============================
+# Frontend build
+# ===============================
 frontend/
 frontend/*
 
-# DS Store
+# ===============================
+# IDE & OS files
+# ===============================
+.vscode/
+.vscode/*
 .DS_Store
+
+# ===============================
+# Logs & temp files
+# ===============================
+*.log
