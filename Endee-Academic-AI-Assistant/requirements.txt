@@ -1,0 +1,6 @@
+pymupdf
+pandas
+camelot-py
+opencv-python
+sentence-transformers
+requests
